@@ -1,0 +1,15 @@
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\loop\task3-c#\task3-c#\bin\Debug\net6.0\task3-c#.exe
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\loop\task3-c#\task3-c#\bin\Debug\net6.0\task3-c#.deps.json
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\loop\task3-c#\task3-c#\bin\Debug\net6.0\task3-c#.runtimeconfig.json
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\loop\task3-c#\task3-c#\bin\Debug\net6.0\task3-c#.dll
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\loop\task3-c#\task3-c#\bin\Debug\net6.0\task3-c#.pdb
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\loop\task3-c#\task3-c#\obj\Debug\net6.0\task3-c#.csproj.AssemblyReference.cache
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\loop\task3-c#\task3-c#\obj\Debug\net6.0\task3-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\loop\task3-c#\task3-c#\obj\Debug\net6.0\task3-c#.AssemblyInfoInputs.cache
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\loop\task3-c#\task3-c#\obj\Debug\net6.0\task3-c#.AssemblyInfo.cs
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\loop\task3-c#\task3-c#\obj\Debug\net6.0\task3-c#.csproj.CoreCompileInputs.cache
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\loop\task3-c#\task3-c#\obj\Debug\net6.0\task3-c#.dll
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\loop\task3-c#\task3-c#\obj\Debug\net6.0\refint\task3-c#.dll
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\loop\task3-c#\task3-c#\obj\Debug\net6.0\task3-c#.pdb
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\loop\task3-c#\task3-c#\obj\Debug\net6.0\task3-c#.genruntimeconfig.cache
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\loop\task3-c#\task3-c#\obj\Debug\net6.0\ref\task3-c#.dll
